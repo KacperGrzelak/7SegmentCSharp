@@ -1,0 +1,5 @@
+C:\Users\dell\source\repos\Komponent\Komponent\bin\Debug\Komponent.dll
+C:\Users\dell\source\repos\Komponent\Komponent\bin\Debug\Komponent.pdb
+C:\Users\dell\source\repos\Komponent\Komponent\obj\Debug\Komponent.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Komponent\Komponent\obj\Debug\Komponent.dll
+C:\Users\dell\source\repos\Komponent\Komponent\obj\Debug\Komponent.pdb
